@@ -1,5 +1,5 @@
 # Template for building Web Application using [Webpack](https://webpack.github.io/docs/tutorials/getting-started/)
-## Includes
+## "Features"
 
 - bundles SCSS and JS using webpack
 - processing SCSS
