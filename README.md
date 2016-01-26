@@ -8,20 +8,20 @@
 
 ## Prerequisites
 
-```dos
+```bat
 npm install webpack -g
 ```
 
 ## Initial build
 
-```dos
+```bat
 npm update
 npm run build
 ```
 
 ## Developer mode
 
-```dos
+```bat
 npm run watch
 ```
 
