@@ -4,16 +4,17 @@
   "description": "",
   "main": "webpack.config.js",
   "devDependencies": {
-    "autoprefixer-loader": "^3.2.0",
+    "autoprefixer": "^6.3.1",
+    "css-loader": "^0.23.1",
     "file-loader": "^0.8.5",
     "jade": "^1.11.0",
     "jade-html-loader": "0.0.3",
     "node-sass": "^3.4.2",
     "postcss-loader": "^0.8.0",
+    "precss": "^1.4.0",
     "sass-loader": "^3.1.2",
-    "webpack": "^1.12.12",
     "style-loader": "^0.13.0",
-    "css-loader": "^0.23.1"
+    "webpack": "^1.12.12"
   },
   "scripts": {
     "build": "webpack --optimize-minimize",
